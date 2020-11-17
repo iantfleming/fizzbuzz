@@ -1,6 +1,6 @@
 # fizzbuzz 
 
-This project was a pair programming effort involving another student at Makers Academy and I. The main goal was to begin learning how to use TDD with a simple program such as fizzbuzz.
+This project was a pair programming effort involving myself and another student at Makers Academy. The main goal was to begin learning how to use TDD with a simple program such as fizzbuzz.
 
 ## Getting started
 
